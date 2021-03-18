@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ishan Tyagi
+ ### Hi there 👋 I’m Ishan Tyagi
 
 <!---
 ishan16696/ishan16696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
