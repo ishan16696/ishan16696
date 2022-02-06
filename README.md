@@ -1,30 +1,23 @@
- ### Hi there 👋 I’m Ishan Tyagi
+ ### Glad to see you here! 👋 
 
+- 🔭 I’m currently working on Software Developer at SAP Cloud Platform @Gardener Team, Bangalore. <br>
+- 🔥 I specialize in working with Cloud native technologies.
+- 💬 Ask me about Software Development, Distributed systems, Virtualisation, Cloud Native.
+- 🌹 I love designing systems, solve problems and find easy and better solutions to solve them. I like to learn about the world behind the screen which involves system designs,cloud, virtualisaton, databases, servers, and also promising technologies.
+- 📫 How to reach me: echo "aXNoYW50eWFnaTI1QGdtYWlsLmNvbQ==" | base64 --decode
+
+- Some of the technologies I have worked with
+
+
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan16696&show_icons=true&theme=radical)
 
 <!---
-I'm Ishan Tyagi. I currently work as Software Developer Engineer at SAP Labs, Bangalore. I have done Masters in Computer Science from IIIT Hyderabad in 2020. 
 
-- 🔭 I’m currently working on Software Developer
-- 🌱 
-- 💬 Ask me about Software Development, Distributed systems, Virtualisation, Cloud Native.
-- 📫 How to reach me: 
 
   [![LINKEDIN](/) 
   [![GMAIL]() 
 
 - My Competitive Programming Profiles
-
-  
-
-- Languages I have used
-
- 
-- Some of the technologies I have worked with
-
-  
-
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan16696&show_icons=true&theme=radical)
-
 
 
 <p> 
